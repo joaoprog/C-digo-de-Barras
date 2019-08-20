@@ -1,0 +1,12 @@
+/**/
+.container {
+  text-align: center;
+  background-color: #00BFFF;
+}
+.contender {
+  text-align: center;
+  background-color: #87cefa;
+}
+.contender h4 {
+color: white
+}
