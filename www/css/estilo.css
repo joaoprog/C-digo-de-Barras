@@ -1,5 +1,6 @@
 /* This is a CSS file */
 .container {
   text-align: center;
-  background-color: #00BFFF;
+  background-color: rgb(255, 255, 255);
+  font-family: sans-serif;
 }
